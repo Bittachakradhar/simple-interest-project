@@ -37,3 +37,4 @@ Run the script:
 
 text
 bash simple-interest.sh
+# Added a test line for merge
